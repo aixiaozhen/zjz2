@@ -6,7 +6,7 @@
 * 武器数据对比
 
 ## 演示
-![](https://raw.githubusercontent.com/aixiaozhen/gitskills/master/zjz2.gif)
+![](http://ww1.sinaimg.cn/large/57e225a7ly1fpb6nxvr1rg20af0iku0x.gif)
 ![](http://ww1.sinaimg.cn/large/57e225a7ly1fpb606ek40j20af0ijt9w.jpg)
 
 ## To Do List
