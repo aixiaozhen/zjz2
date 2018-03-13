@@ -4,7 +4,7 @@ import App from "./App.vue"
 import router from "./router"
 
 
-Vue.config.productionTip = true// 声明当前不是生产环境
+Vue.config.productionTip = false// 声明当前不是生产环境
 
 Vue.prototype.$axios = axios
 
